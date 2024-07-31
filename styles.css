@@ -48,3 +48,6 @@ p {
 .recipe {
     grid-area: recipe;
 }
+li{
+   font-family: Arial, Helvetica, sans-serif;
+}
